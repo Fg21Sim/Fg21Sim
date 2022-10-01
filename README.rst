@@ -1,7 +1,7 @@
 Foreground Simulation for 21 cm Reionization Signal Detection
 =============================================================
 
-The `fg21sim` is a low-frequency radio foregrounds simulator
+The ``fg21sim`` is a low-frequency radio foregrounds simulator
 aiming to provide the simulation of the common foregrounds
 impeding the 21 cm reionization signal detection. 
 
@@ -11,16 +11,20 @@ used to help develop and test various foreground removal methods.
 
 Status
 --------
-We are working on the next-gen simulation suite [`Fg21Sim+`](https://github.com/Fg21Sim/Fg21SimPlus)
-which offers higher resolution, better fidelity, and, eventually,
-a full sky coverage for all the foreground components.
+We are working on the next-gen simulation suite `Fg21Sim+ <https://github.com/Fg21Sim/Fg21SimPlus>`_
+, which offers higher resolution, better fidelity, and, eventually,
+a full sky coverage for all the foreground components. Future updates
+will be added to the next-gen suite.
 
 Demo Papers
 --------
 Here are papers using the `fg21sim` to simulate the foregrounds:
-* Lian,+ 2020: [Contribution of Galactic free-free emission to the foreground for EoR signal in SKA experiments](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.1232L)
-* Li,+ 2019: [Contribution of Radio Halos to the Foreground for SKA EoR Experiments](https://ui.adsabs.harvard.edu/abs/2019ApJ...879..104L)
-* Li,+ 2019: [Separating the EoR signal with a convolutional denoising autoencoder: a deep-learning-based method](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2628L)
+
+* Lian,+ 2020: `Contribution of Galactic free-free emission to the foreground for EoR signal in SKA experiments <https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.1232L>`_;
+
+* Li,+ 2019: `Contribution of Radio Halos to the Foreground for SKA EoR Experiments <https://ui.adsabs.harvard.edu/abs/2019ApJ...879..104L>`_;
+
+* Li,+ 2019: `Separating the EoR signal with a convolutional denoising autoencoder: a deep-learning-based method <https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2628L>`_;
 
 Features
 --------
