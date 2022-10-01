@@ -1,7 +1,7 @@
 Foreground Simulation for 21 cm Reionization Signal Detection
 =============================================================
 
-The |FG21sim|_ is a low-frequency radio foregrounds simulator
+The |Fg21Sim|_ is a low-frequency radio foregrounds simulator
 aiming to provide the simulation of the common foregrounds
 impeding the 21 cm reionization signal detection.
 The simulated foregrounds can be used to evaluate the impacts of
@@ -48,7 +48,7 @@ Installation
 
 2. Clone this repository::
 
-    $ git clone https://github.com/liweitianux/fg21sim
+    $ git clone https://github.com/Fg21Sim/fg21sim
 
 3. Install the required third-party Python packages.
    And it is recommended to use the `virtual environment`_::
